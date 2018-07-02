@@ -4,4 +4,6 @@ print('Other line')
 
 print('After Clone')
 
-print('My first change - 3')
+print('My first change - 2')
+
+print('My second change')
